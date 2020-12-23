@@ -85,6 +85,11 @@ main {
     padding: 5px;
 }
 
+main a {
+    text-decoration: none;
+    color: rgb(146, 197, 211);
+}
+
 .Transform3d {
     transform: perspective(500px);
 }
